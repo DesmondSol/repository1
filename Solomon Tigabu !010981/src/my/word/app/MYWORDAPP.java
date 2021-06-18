@@ -469,7 +469,7 @@ object secObject;
                 
             System.exit(0);
             
-        }if(e.getSource()==devdetail){
+        }if(e.getSource()==devdetail){ // this is the about me details
             
             JFrame rt = new JFrame();
             rt.setLayout(new BorderLayout());
